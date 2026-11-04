@@ -1,0 +1,2 @@
+# Public assets
+Add your transparent character animation here as `character.webm` (VP9 + alpha recommended). Optional fallback: `character.mp4`. Keep the filenames exactly as shown because the Skills section references `/character.webm` and `/character.mp4`.
