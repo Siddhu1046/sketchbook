@@ -31,14 +31,14 @@ export const visitedPlaces: VisitedPlace[] = [
     note: "Rock-cut cave temple complex."
   },
   {
-    id: "agastya-lake-temple-area",
-    name: "Agastya Lake & nearby temple area",
+    id: "agastya-temple",
+    name: "Agastya Temple",
     state: "Karnataka",
     country: "India",
     category: "heritage",
     status: "visited",
     parentPlace: "Badami",
-    note: "Visited as part of the Badami day trip. Confirm the exact temple name before publishing a more specific label."
+    note: "Visited during the Badami day trip."
   },
   {
     id: "badami-rock-climbing",
@@ -51,14 +51,14 @@ export const visitedPlaces: VisitedPlace[] = [
     note: "Rock-climbing/adventure experience near the Badami cliffs."
   },
   {
-    id: "banashankari-shakti-peetha",
-    name: "Banashankari Shakti Peetha",
+    id: "shakambari-shakti-peeth",
+    name: "Shakambari Shakti Peeth",
     state: "Karnataka",
     country: "India",
     category: "temple",
     status: "visited",
     parentPlace: "Badami",
-    note: "Also referred to as Shakambari Shakti Peeth; near Badami."
+    note: "Temple visit near Badami."
   },
   {
     id: "gokarna",
