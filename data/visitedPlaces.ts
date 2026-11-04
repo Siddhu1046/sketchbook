@@ -18,6 +18,7 @@ export const visitedPlaces: VisitedPlace[] = [
     country: "India",
     category: "city",
     status: "visited",
+    visitDate: "2026-11-01",
     note: "One-day trip with Mani and the group."
   },
   {
